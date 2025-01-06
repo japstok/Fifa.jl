@@ -15,6 +15,7 @@ export player_input
 export find_position_category
 
 # Write your package code here.
+include("fonctions.jl")
 include("outils.jl")
 
 end
